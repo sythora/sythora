@@ -16,14 +16,15 @@ i like making stuff that's either actually useful to me or just fun to build.
 
 ---
 
+
 ## stuff i use
 
-### languages
+### languages (and my opinion on them)
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> my only love
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> me when vibecode
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> "you came here as you're bored, didn't you?"
 </p>
 
 ### backend and frameworks
@@ -36,10 +37,10 @@ i like making stuff that's either actually useful to me or just fun to build.
 ### tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> ( i barely use ts i hate it)
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> mid but like 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"> that's what im on right now
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"> vsc my beloved (screw jetbrains and microslop for their ai crap)
 </p>
 
 ---
